@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02-Appointment with basic verification-hardcode</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f3ea6d29-4691-4383-8daa-15e27b8fceb0</testCaseGuid>
+</TestCaseEntity>
